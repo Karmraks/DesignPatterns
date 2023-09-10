@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FitnessClub", "FitnessClub\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesignBuilder", "DesignBuilder", "{0B6330D1-B22D-445A-A04C-8621B078FC76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "McRonald", "McRonald\McRonald.csproj", "{9F2297E8-39DB-45E1-B92F-8733541A287A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8A2011F7-82DC-43AE-A1C5-DD66AAFBC0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A2011F7-82DC-43AE-A1C5-DD66AAFBC0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A2011F7-82DC-43AE-A1C5-DD66AAFBC0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F2297E8-39DB-45E1-B92F-8733541A287A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F2297E8-39DB-45E1-B92F-8733541A287A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F2297E8-39DB-45E1-B92F-8733541A287A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F2297E8-39DB-45E1-B92F-8733541A287A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -34,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{F6F6B0B3-8DEE-4264-BF7D-F93E80E2C157} = {336F4F79-6427-4AC8-BAE4-5B8C45747D28}
 		{8A2011F7-82DC-43AE-A1C5-DD66AAFBC0C7} = {5B2DBD4B-5A3B-4224-A7A2-9D3E4F366CAC}
+		{9F2297E8-39DB-45E1-B92F-8733541A287A} = {0B6330D1-B22D-445A-A04C-8621B078FC76}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {20A01670-6672-4C40-8ED7-9E7F6CB97128}
